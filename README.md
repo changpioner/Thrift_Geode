@@ -1,4 +1,4 @@
-# hello-GitHub
-hello,GitHub!
-hello,every one
-hello,new branch
+# Thrift_Geode
+整合thrift服务与geode服务，
+基于zookeeper实现leader的选举与任务的分发，
+其中负载均衡采用了WeightedRoundRobin算法。
